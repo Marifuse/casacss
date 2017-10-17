@@ -1,0 +1,65 @@
+.casa{
+    position: absolute;
+    margin: 0;
+    width: 500px;
+    height: 250px;
+    background-color: #01DFD7;
+    margin-top: 290px;
+    margin-right: 80px;
+    margin-left: 700px;
+}
+.pasto{
+    background-color: #04B404;
+    width: 1290px;
+    height: 130px;
+    position: absolute;
+    bottom: 0;
+}
+.techo{
+    position: absolute;
+    border-bottom: 180px solid #ff6666;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    width: 500px;
+    bottom: 280px;
+    margin-bottom: 50px;
+    margin-left: 650px;
+}
+.ventana1{
+    position: absolute;
+    margin: 0;
+    width: 70px;
+    height: 70px;
+    background-color:#6E6E6E;
+    margin-top: 380px;
+    margin-right: 90px;
+    margin-left: 1080px;
+}
+.ventana2{
+    position: absolute;
+    margin: 0;
+    width: 70px;
+    height: 70px;
+    background-color:#6E6E6E;
+    margin-top: 380px;
+    margin-right: 90px;
+    margin-left: 760px;
+}
+.puerta{
+    position: absolute;
+    margin: 0;
+    width: 80px;
+    height: 160px;
+    background-color: #08088A;
+    margin-top: 380px;
+    margin-left: 915px;
+}
+.chimenea{
+    position: absolute;
+    margin: 0;
+    width: 30px;
+    height: 80px;
+    background-color: #000000;
+    margin-left: 1100px;
+    margin-top: 100px;
+}
